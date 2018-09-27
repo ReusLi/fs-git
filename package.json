@@ -1,0 +1,28 @@
+{
+  "name": "fs-git",
+  "version": "1.0.0",
+  "description": "just a demo for handle git project and show to website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReusLi/fs-git.git"
+  },
+  "keywords": [
+    "fs",
+    "file",
+    "git",
+    "tree"
+  ],
+  "author": "reusli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ReusLi/fs-git/issues"
+  },
+  "homepage": "https://github.com/ReusLi/fs-git#readme",
+  "dependencies": {
+    "simple-git": "^1.102.0"
+  }
+}
