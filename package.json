@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/ReusLi/fs-git#readme",
   "dependencies": {
-    "simple-git": "^1.102.0"
+    "simple-git": "^1.102.0",
+    "uuid": "^3.3.2"
   }
 }
