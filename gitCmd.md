@@ -1,0 +1,1 @@
+git diff --full-index README.md
