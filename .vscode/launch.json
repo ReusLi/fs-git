@@ -9,7 +9,7 @@
             "type": "node",
             "request": "launch",
             "name": "run index",
-            "program": "${workspaceFolder}\\index.js"
+            "program": "${workspaceFolder}\\gitdiff.js"
         }
     ]
 }
