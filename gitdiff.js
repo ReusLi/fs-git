@@ -6,15 +6,16 @@ let result = fs.readFileSync('saved.patch',
 
 
 var cfg = {
-    "wordByWord": true,
-    "outputFormat": "side-by-side",
-    "matching": "lines",
-    "matchWordsThreshold": 0.25,
-    "matchingMaxComparisons": 2500,
-    "maxLineLengthHighlight": 10000,
-    "inputFormat": "diff",
-    "showFiles": true
+    wordByWord: true,
+    outputFormat: "side-by-side",
+    matching: "lines",
+    matchWordsThreshold: 0.25,
+    matchingMaxComparisons: 2500,
+    maxLineLengthHighlight: 10000,
+    inputFormat: "diff",
+    showFiles: true
 }
+
 let jsd = diff2html.Diff2Html.getJsonFromDiff(result, cfg)
 
 console.log(jsd)
