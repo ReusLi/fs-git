@@ -5,6 +5,7 @@ let result = fs.readFileSync('saved.patch',
     'utf-8')
 
 
+    
 var cfg = {
     wordByWord: true,
     outputFormat: "side-by-side",
