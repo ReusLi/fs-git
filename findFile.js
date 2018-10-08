@@ -50,3 +50,10 @@ if (fs.existsSync(filepath)) {
 }
 
 fs.writeFileSync(filepath, JSON.stringify(targetpath, null, ' ')) //保存在tree.json中，去查看吧
+
+
+// 系统查出来的file路径
+// xxx.split(Path.sep)
+
+// 客户端req.url
+// url.split('?')[0].split(Path.sep)
