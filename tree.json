@@ -1,0 +1,79 @@
+{
+ "path": "F:\\fs-git\\project",
+ "name": "project",
+ "type": "directory",
+ "children": [
+  {
+   "path": "F:\\fs-git\\project\\file.js",
+   "name": "file.js",
+   "type": "file"
+  },
+  {
+   "path": "F:\\fs-git\\project\\folder1",
+   "name": "folder1",
+   "type": "directory",
+   "children": [
+    {
+     "path": "F:\\fs-git\\project\\folder1\\folder6",
+     "name": "folder6",
+     "type": "directory",
+     "children": [
+      {
+       "path": "F:\\fs-git\\project\\folder1\\folder6\\123",
+       "name": "123",
+       "type": "directory",
+       "children": []
+      },
+      {
+       "path": "F:\\fs-git\\project\\folder1\\folder6\\新建文本文档.txt",
+       "name": "新建文本文档.txt",
+       "type": "file"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "F:\\fs-git\\project\\folder2",
+   "name": "folder2",
+   "type": "directory",
+   "children": [
+    {
+     "path": "F:\\fs-git\\project\\folder2\\file.css",
+     "name": "file.css",
+     "type": "file"
+    },
+    {
+     "path": "F:\\fs-git\\project\\folder2\\folder3",
+     "name": "folder3",
+     "type": "directory",
+     "children": [
+      {
+       "path": "F:\\fs-git\\project\\folder2\\folder3\\file.html",
+       "name": "file.html",
+       "type": "file"
+      }
+     ]
+    },
+    {
+     "path": "F:\\fs-git\\project\\folder2\\folder5",
+     "name": "folder5",
+     "type": "directory",
+     "children": [
+      {
+       "path": "F:\\fs-git\\project\\folder2\\folder5\\新建文本文档.txt",
+       "name": "新建文本文档.txt",
+       "type": "file"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "F:\\fs-git\\project\\folder4",
+   "name": "folder4",
+   "type": "directory",
+   "children": []
+  }
+ ]
+}
